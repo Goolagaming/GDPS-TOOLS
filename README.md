@@ -30,4 +30,4 @@ Thats All TQ.. :D
 # Warn
 This template will be deleted as soon because there are problem with
 Database Connection or Something... Don't worry, this gdps tools will be create as soon.
-(i know my english is bad)
+(btw sorry for my english :|)
